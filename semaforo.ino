@@ -59,7 +59,7 @@ void cochesOffPeatonesOn(){
 }
 
 void avisoPeatones(){
-	int smallLoop = 8;
+    int smallLoop = 8;
     while(smallLoop >= 0){
       digitalWrite(ledPeatonesGreen, HIGH);
       delay(intermitenteDelay);
