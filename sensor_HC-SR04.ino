@@ -1,7 +1,5 @@
 int ping = 7;
-// unsigned long duration;
-// vel = distancia/tempo
-// delta time
+
 void setup()
 {
 	Serial.begin(9600);	
