@@ -1,4 +1,4 @@
-int ping = 7; //init int
+int ping = 7;
 
 void setup()
 {
