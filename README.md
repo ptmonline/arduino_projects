@@ -1,6 +1,6 @@
 # arduino_projects
-Arduino Test Projects
+Arduino Projects
 
-* Semaforo test
-* Sensor HC - Sensor humedad & temperatura
-* Sensor YL-69 - Sensor de humedad tierra
+* Semaforo test --*test*
+* Sensor HC - Sensor humedad & temperatura --*beta*
+* Sensor YL-69 - Sensor de humedad tierra --*beta*
